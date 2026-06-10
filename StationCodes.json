@@ -2,40 +2,6 @@
   "version": 2,
   "type": "StationCodes",
   "data": [
-    {
-      "id": 805,
-      "code": "STA01XYZ74",
-      "lat": "39.090896",
-      "long": "-120.038030",
-      "isVerified": true
-    },
-    {
-      "id": 806,
-      "code": "STA02XYZ02",
-      "lat": "39.011919",
-      "long": "-122.748798",
-      "isVerified": false
-    },
-    {
-      "id": 807,
-      "code": "STA03XYZ29",
-      "lat": "38.593926",
-      "long": "-122.238943",
-      "isVerified": false
-    },
-    {
-      "id": 808,
-      "code": "STA04XYZ32",
-      "lat": "34.243197",
-      "long": "-117.258034",
-      "isVerified": false
-    },
-    {
-      "id": 809,
-      "code": "STA05XYZ49",
-      "lat": "37.954040",
-      "long": "-121.286313",
-      "isVerified": false
-    }
+ 
   ]
 }

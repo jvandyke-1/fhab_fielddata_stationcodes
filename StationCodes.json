@@ -1,21 +1,3 @@
-{
-  "version": 2,
-  "type": "StationCodes",
-  "data": [
-    {
-      "id": 883,
-      "code": "STA01XYZ20",
-      "lat": "39.091701",
-      "long": "-120.036645",
-      "isVerified": true,
-      "isSynced": false
-    },
-    {
-      "id": 884,
-      "code": "STA02XYZ96",
-      "lat": "39.013749",
-      "long": "-122.747184",
-      "isVerified": true,{
   "version": 2,
   "type": "StationCodes",
   "data": [

@@ -81,6 +81,46 @@
       "long": "-121.287175",
       "isVerified": true,
       "isSynced": false
+    },
+    {
+      "id": 903,
+      "code": "STA01XYZ78",
+      "lat": "39.090900",
+      "long": "-120.038107",
+      "isVerified": true,
+      "isSynced": false
+    },
+    {
+      "id": 904,
+      "code": "STA02XYZ53",
+      "lat": "39.012108",
+      "long": "-122.748446",
+      "isVerified": true,
+      "isSynced": false
+    },
+    {
+      "id": 905,
+      "code": "STA03XYZ45",
+      "lat": "38.590658",
+      "long": "-122.239364",
+      "isVerified": true,
+      "isSynced": false
+    },
+    {
+      "id": 906,
+      "code": "STA04XYZ39",
+      "lat": "34.240276",
+      "long": "-117.256334",
+      "isVerified": true,
+      "isSynced": false
+    },
+    {
+      "id": 907,
+      "code": "STA05XYZ70",
+      "lat": "37.952156",
+      "long": "-121.288368",
+      "isVerified": true,
+      "isSynced": false
     }
   ]
 }
